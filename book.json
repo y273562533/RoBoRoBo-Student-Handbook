@@ -16,7 +16,7 @@
       "style": "background: none; max-height: 70px; min-height: 50px"
     },
     "tbfed-pagefooter": {
-            "copyright":"roborobo.cn",
+            "copyright":"©roborobo.cn",
             "modify_label": "该文件修订时间:",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
